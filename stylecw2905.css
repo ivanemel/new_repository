@@ -1,0 +1,54 @@
+html{
+	background-color: rgba(150,0,0,0.7);
+}
+
+img{
+	width: 100px;
+	height: 50px;
+	float: left;
+}
+
+nav{
+	float: left;
+
+}
+
+body{
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+header{
+	width: 100%;
+	margin: 30px;
+	height: 100px;
+}
+
+main{
+	background-color: white;
+	padding: 20px;
+	float: left;
+	width: 70%;
+}
+
+.headdiv{
+	display: inline;
+	background-color: red;
+	width: 24%;
+}
+
+aside{
+	float: right;
+	width: 25%;
+}
+
+footer{
+	width: 100%;
+	padding: 20px;
+	float: left;
+}
+
+.colorred{
+	background-color: rgba(200,0,0,0.7);
+}
